@@ -1,7 +1,17 @@
-# Magic-8-Circle
-A Decision Making App Based on Magic 8 Ball Made Using Flutter
+# Magic 8 Circle : An app for fortune-telling 
+A Simple App Inspired From Magic 8 Ball - Made Using Flutter.
 
-Screenshots of the app: 
-![Screenshot_20230113_233758](https://user-images.githubusercontent.com/112900490/212390869-e1bdb296-517f-421d-ad2a-fee4c8124ef3.png)
-![Screenshot_1673631464](https://user-images.githubusercontent.com/112900490/212392099-6e0d5508-fc1d-4a4e-b449-a74d2441b5c1.png)
-![Screenshot_20230113_235213](https://user-images.githubusercontent.com/112900490/212392106-ecd6b507-7037-4551-98fc-4ebba3fa8868.png)
+![appdemoscreenshots](https://user-images.githubusercontent.com/112900490/212411553-1a5aa6af-9d39-45a5-8dec-1b1c04f2a0f7.png)
+
+## 💼 Libraries and tools used
+- get - State management https://pub.dev/packages/get
+- AutoSizeText - https://pub.dev/packages/auto_size_text
+- url_launcher 6.1.7 - https://pub.dev/packages/url_launcher
+
+## 🌱 Building Source
+- Set your working directory to the root of your git clone
+- Make sure your Android SDK and Flutter are up to date (flutter upgrade)
+- Execute flutter run
+
+## 🤝 Thanks
+Special thanks to  <a href="https://github.com/sah1lga1kwad" target="_blank" rel="noreferrer">@sah1lga1kwad</a> for the design.
